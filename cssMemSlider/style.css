@@ -12,7 +12,7 @@ body {
 
 .main {
    margin: 1vw auto 0;
-   width: 60vw;
+   width: 58vw;
    max-width: 100%;
    text-align: center;
 }
@@ -57,7 +57,6 @@ body {
 #slide2:checked ~ .row_radio .text_2,
 #slide3:checked ~ .row_radio .text_3,
 #slide4:checked ~ .row_radio .text_4 { 
-/*   width: 25%;*/
    opacity: 1;
    transition: opacity .8s ease-out .2s;
 }
